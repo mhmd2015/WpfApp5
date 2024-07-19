@@ -8,7 +8,7 @@ This project is a testing to the authentication plugins. It is designed to get a
 
 To install this project on your local machine, follow these steps:
 
-1. Clone the repository: `git clone [WpfApp5](https://github.com/mhmd2015/WpfApp5)`
+1. Clone the repository: `git clone https://github.com/mhmd2015/WpfApp5`
 2. Run the project
 
 
