@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MasterBlazor.WPF.Lib.Auth" Version="1.0.0" />
+    <PackageReference Include="MasterBlazor.WPF.UC.LoginPage" Version="1.0.0" />
+    <PackageReference Include="MasterBlazor.WPF.UC.RestForm" Version="1.0.0" />
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.2646-prerelease" />
+    <PackageReference Include="ModernWpfUI" Version="0.9.7-preview.2" />
+  </ItemGroup>
+
+</Project>
