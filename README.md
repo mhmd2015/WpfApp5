@@ -39,6 +39,15 @@ there are 5 plugins are essential to include in the project
   <PackageReference Include="ModernWpfUI" Version="0.9.7-preview.2" />
 </ItemGroup>
 ```
+
+3 of them are designed for this project to achieve the authentication steps:
+
+[MasterBlazor.WPF.Lib.Auth](https://github.com/mhmd2015/MasterBlazor.WPF.Lib.Auth)
+
+[MasterBlazor.WPF.UC.LoginPage](https://github.com/mhmd2015/MasterBlazor.WPF.UC.LoginPage)
+
+[MasterBlazor.WPF.UC.RestForm](https://github.com/mhmd2015/MasterBlazor.WPF.UC.RestForm)
+
 ## modify App.xaml
 
 Paste the following in the App.xaml, please change the name here "WpfApp5" with your app name
